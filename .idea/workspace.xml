@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c43e88d2-03ad-49dd-b426-c87229aa6119" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/solana PnL bot-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solana Wallet Addresses - Projects (1) 2024-07-07 22_51_10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Solana Wallet Addresses - Projects (1) 2024-07-07 22_51_10.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grouped_transactions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/grouped_transactions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.js" beforeDir="false" afterPath="$PROJECT_DIR$/index2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_0.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_10.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_11.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_12.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_12.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_13.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_14.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_15.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_15.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_16.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_17.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_18.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_19.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_19.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_20.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_20.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_21.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_21.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_22.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_22.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_24.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_24.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_25.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_25.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_26.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_26.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_27.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_27.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_29.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_29.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_3.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_30.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_30.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_32.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_32.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_33.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_33.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_36.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_36.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_39.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_39.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_4.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_5.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_6.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_7.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_group_8.log" beforeDir="false" afterPath="$PROJECT_DIR$/process_group_8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/win-rate.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/win-rate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/win-rate.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/win-rate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swaptoken.csv" beforeDir="false" afterPath="$PROJECT_DIR$/swaptoken.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction.log" beforeDir="false" afterPath="$PROJECT_DIR$/transaction.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transactions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/transactions.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2knkfGVQNHvGkxpm7D7loLLWeF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/erfanesfahanian/Downloads/solana-PnL-bot-3-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c43e88d2-03ad-49dd-b426-c87229aa6119" name="Changes" comment="" />
+      <created>1723926829695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723926829695</updated>
+      <workItem from="1723926830792" duration="12547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

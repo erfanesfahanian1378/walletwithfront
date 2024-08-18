@@ -1,0 +1,552 @@
+stderr: stderr: TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+    at /Users/erfanesfahanian/Downloads/solana-PnL-bot-3-2/index.js:39:20
+    at Array.forEach (<anonymous>)
+    at groupTransactions (/Users/erfanesfahanian/Downloads/solana-PnL-bot-3-2/index.js:35:22)
+    at main (/Users/erfanesfahanian/Downloads/solana-PnL-bot-3-2/index.js:646:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+
+stdout: Processing wallet (group 8): HoZoWggoMaFcHmKkUc2eRfU7D2Uq5sEDhz424USpkzbv
+stdout: Processing wallet address: HoZoWggoMaFcHmKkUc2eRfU7D2Uq5sEDhz424USpkzbv
+{
+  'r/snoofi': [
+    {
+      timestamp: 1723934220,
+      token_amount: 5170265.847627,
+      amount: 25,
+      usdBalance: 3461.5504925968244,
+      sp: -1
+    },
+    {
+      timestamp: 1723934100,
+      token_amount: 6411569.055696,
+      amount: 25,
+      usdBalance: 3461.5504925968244,
+      sp: -1
+    }
+  ],
+  DBAG: [
+    {
+      timestamp: 1723905240,
+      token_amount: 8230053.558304,
+      amount: 34.46353343,
+      usdBalance: 4771.890444849745,
+      sp: 1
+    },
+    {
+      timestamp: 1723871220,
+      token_amount: 8230053.558304,
+      amount: 20,
+      usdBalance: 2769.2403940774598,
+      sp: -1
+    }
+  ],
+  ong: [
+    {
+      timestamp: 1723842360,
+      token_amount: 4293513.074004,
+      amount: 15.648684334,
+      usdBalance: 2166.7484385939965,
+      sp: 1
+    }
+  ]
+}
+{
+  'r/snoofi': -6923.100985193649,
+  DBAG: 2002.6500507722853,
+  ong: 2166.7484385939965
+}
+Total Transaction: 5
+Win Rate: 33.3% (1/3)
+Total PnL: -2753.70$
+
+Processing wallet (group 8): 9YWZYm4Secnq3GzkwDgaN5KWUJN8wb9L78mSDGXjtxY2
+stdout: Processing wallet address: 9YWZYm4Secnq3GzkwDgaN5KWUJN8wb9L78mSDGXjtxY2
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): GfYuBpP534VdUc9gJyNgm9sXsMKGQ96akPMXbQuDELNy
+stdout: Processing wallet address: GfYuBpP534VdUc9gJyNgm9sXsMKGQ96akPMXbQuDELNy
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): AECZnnPe4swqY5way9UZL1J98Mm6befnHauTSGw8gHWf
+stdout: Processing wallet address: AECZnnPe4swqY5way9UZL1J98Mm6befnHauTSGw8gHWf
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 6YPo7gRotagXRLqud6XYLa18eZcrZkA5RxV21kn5DeyH
+stdout: Processing wallet address: 6YPo7gRotagXRLqud6XYLa18eZcrZkA5RxV21kn5DeyH
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): GMYnEAYZk3VoVUDj8XYRZrR7GaDxKHPMgvKKRcJAXPC7
+stdout: Processing wallet address: GMYnEAYZk3VoVUDj8XYRZrR7GaDxKHPMgvKKRcJAXPC7
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): HX69hRujPiUMHmHEm6RqtekQCWqY6HdF5sv84eYHD9QZ
+stdout: Processing wallet address: HX69hRujPiUMHmHEm6RqtekQCWqY6HdF5sv84eYHD9QZ
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): EvzsQWnugRPsoDh1fPaKHPAwcerveyWLVoDs5rwZ1yYJ
+stdout: Processing wallet address: EvzsQWnugRPsoDh1fPaKHPAwcerveyWLVoDs5rwZ1yYJ
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 9wyBWLYVHMkWyq3R6iGJqmxTazxyja7qziCtrux9Pqic
+stdout: Processing wallet address: 9wyBWLYVHMkWyq3R6iGJqmxTazxyja7qziCtrux9Pqic
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 2LSTbdkDFStFWzD9ufKY4oavh5GEN2WiwYdebuo7ta6i
+stdout: Processing wallet address: 2LSTbdkDFStFWzD9ufKY4oavh5GEN2WiwYdebuo7ta6i
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 9Zwo8VPWdGJ2QmyxKBP361wUYXCysenSGHJDuX5Jxxxx
+stdout: Processing wallet address: 9Zwo8VPWdGJ2QmyxKBP361wUYXCysenSGHJDuX5Jxxxx
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 5DhB8JPaArPHNV8cAnKBcz7KukEPrSYaXUjjfZmWq3JD
+stdout: Processing wallet address: 5DhB8JPaArPHNV8cAnKBcz7KukEPrSYaXUjjfZmWq3JD
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): BgcaTtLQdt8cPtU5hCzkC7wP68ZMrhLmtZddfR5fjoKM
+stdout: Processing wallet address: BgcaTtLQdt8cPtU5hCzkC7wP68ZMrhLmtZddfR5fjoKM
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 71ZG19kndsK5UayjCQXwgzU6Sy8hbb9XcnLHovqwz2M8
+stdout: Processing wallet address: 71ZG19kndsK5UayjCQXwgzU6Sy8hbb9XcnLHovqwz2M8
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 2NUL41xrqTws57SUcJgkEtcaAesMcgPrKdJcFFazFyV8
+stdout: Processing wallet address: 2NUL41xrqTws57SUcJgkEtcaAesMcgPrKdJcFFazFyV8
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): Fq8CxaXJ3t9ojtSrX94NSPjzfhHXbsxtFT77fGmmtFNx
+stdout: Processing wallet address: Fq8CxaXJ3t9ojtSrX94NSPjzfhHXbsxtFT77fGmmtFNx
+No more transactions available.
+{
+  HAM: [
+    {
+      timestamp: 1723879800,
+      token_amount: 13163789.968679294,
+      amount: 0.398320037,
+      usdBalance: 55.152196811541415,
+      sp: 1
+    }
+  ],
+  LUMA: [
+    {
+      timestamp: 1723879800,
+      token_amount: 1893809.403034,
+      amount: 0.63377374,
+      usdBalance: 87.75359207567728,
+      sp: 1
+    }
+  ],
+  SDOGE: [
+    {
+      timestamp: 1723723320,
+      token_amount: 554843.18304,
+      amount: 0.441412166,
+      usdBalance: 61.11882002622125,
+      sp: 1
+    }
+  ],
+  GOGO: [
+    {
+      timestamp: 1723721280,
+      token_amount: 5095847.781232,
+      amount: 0.086356233,
+      usdBalance: 11.957058435198247,
+      sp: 1
+    }
+  ],
+  BODENT: [
+    {
+      timestamp: 1723721280,
+      token_amount: 13364118.610943077,
+      amount: 0.075232704,
+      usdBalance: 10.416872143623644,
+      sp: 1
+    }
+  ],
+  MARI: [
+    {
+      timestamp: 1723721280,
+      token_amount: 1498122653.316646,
+      amount: 0.074298023,
+      usdBalance: 10.28745432458481,
+      sp: 1
+    }
+  ],
+  Guardian: [
+    {
+      timestamp: 1723721280,
+      token_amount: 4789332.177531,
+      amount: 0.08499591,
+      usdBalance: 11.768705365168614,
+      sp: 1
+    }
+  ],
+  BOO: [
+    {
+      timestamp: 1723721280,
+      token_amount: 4447999.529416,
+      amount: 0.080860309,
+      usdBalance: 11.196081698019258,
+      sp: 1
+    }
+  ],
+  MCAT: [
+    {
+      timestamp: 1723721280,
+      token_amount: 10124508.468804214,
+      amount: 0.078230602,
+      usdBalance: 10.831967155569844,
+      sp: 1
+    }
+  ],
+  BOBE: [
+    {
+      timestamp: 1723721280,
+      token_amount: 2061446.815467,
+      amount: 0.086409529,
+      usdBalance: 11.964437907000384,
+      sp: 1
+    }
+  ],
+  COSMO: [
+    {
+      timestamp: 1723721280,
+      token_amount: 3902749.236532,
+      amount: 0.074987045,
+      usdBalance: 10.38285770232521,
+      sp: 1
+    }
+  ],
+  BEFORT: [
+    {
+      timestamp: 1723721280,
+      token_amount: 2880191.37127,
+      amount: 0.059263905,
+      usdBalance: 8.205799981838457,
+      sp: 1
+    }
+  ],
+  TENANT: [
+    {
+      timestamp: 1723721280,
+      token_amount: 189237.668495,
+      amount: 0.096395303,
+      usdBalance: 13.347088343346806,
+      sp: 1
+    }
+  ],
+  TOPGAI: [
+    {
+      timestamp: 1723721220,
+      token_amount: 29469811.465991,
+      amount: 0.095499044,
+      usdBalance: 13.222990512029034,
+      sp: 1
+    }
+  ],
+  ROACHES: [
+    {
+      timestamp: 1723721220,
+      token_amount: 30419130.16532311,
+      amount: 0.095724828,
+      usdBalance: 13.254253020685852,
+      sp: 1
+    }
+  ],
+  BOBO: [
+    {
+      timestamp: 1723721220,
+      token_amount: 8951304.710295968,
+      amount: 0.129110332,
+      usdBalance: 17.87687733335758,
+      sp: 1
+    }
+  ],
+  Truthcoin: [
+    {
+      timestamp: 1723721220,
+      token_amount: 4622589.936452,
+      amount: 0.094600333,
+      usdBalance: 13.098553171838946,
+      sp: 1
+    }
+  ],
+  WINKY: [
+    {
+      timestamp: 1723721220,
+      token_amount: 5169705.053101,
+      amount: 0.096624343,
+      usdBalance: 13.378801684339782,
+      sp: 1
+    }
+  ],
+  nini: [
+    {
+      timestamp: 1723721220,
+      token_amount: 491020.403408,
+      amount: 0.674699484,
+      usdBalance: 93.42025324780094,
+      sp: 1
+    }
+  ]
+}
+{
+  HAM: 55.152196811541415,
+  LUMA: 87.75359207567728,
+  SDOGE: 61.11882002622125,
+  GOGO: 11.957058435198247,
+  BODENT: 10.416872143623644,
+  MARI: 10.28745432458481,
+  Guardian: 11.768705365168614,
+  BOO: 11.196081698019258,
+  MCAT: 10.831967155569844,
+  BOBE: 11.964437907000384,
+  COSMO: 10.38285770232521,
+  BEFORT: 8.205799981838457,
+  TENANT: 13.347088343346806,
+  TOPGAI: 13.222990512029034,
+  ROACHES: 13.254253020685852,
+  BOBO: 17.87687733335758,
+  Truthcoin: 13.098553171838946,
+  WINKY: 13.378801684339782,
+  nini: 93.42025324780094
+}
+Total Transaction: 19
+Win Rate: 0.0% (0/19)
+Total PnL: 478.63$
+
+Processing wallet (group 8): EfAT5qxf8bq88xXftNnj8R8pdzhrvk4XhmHGiao5y8KL
+stdout: Processing wallet address: EfAT5qxf8bq88xXftNnj8R8pdzhrvk4XhmHGiao5y8KL
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 5oSheDJMWdcCcNd77Arshzhrebrh3NYfTKT3dz7udxFb
+stdout: Processing wallet address: 5oSheDJMWdcCcNd77Arshzhrebrh3NYfTKT3dz7udxFb
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): sjJgJE1TTrRDzkDiNLx8gZGmWRqZCRHktJcqAL4mXiQ
+stdout: Processing wallet address: sjJgJE1TTrRDzkDiNLx8gZGmWRqZCRHktJcqAL4mXiQ
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 9LCr9YRy3FPo1nn2msz1ARQZjHSfW59gy8bgQVBoL37z
+stdout: Processing wallet address: 9LCr9YRy3FPo1nn2msz1ARQZjHSfW59gy8bgQVBoL37z
+
+Processing wallet (group 8): 8RbSb2HyYqip7fqXoAfWFRfs4zcRAZG6Wm9g6M7GHUgJ
+stdout: Processing wallet address: 8RbSb2HyYqip7fqXoAfWFRfs4zcRAZG6Wm9g6M7GHUgJ
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): DFn1jv8CgvSsZWZaeTrin1rbdsh7rExHQ7exp1rBXTER
+stdout: Processing wallet address: DFn1jv8CgvSsZWZaeTrin1rbdsh7rExHQ7exp1rBXTER
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 3WRnpTbBpyyMWhAqwgdUyok7EFV9m3KtswTCeqFxGF7A
+stdout: Processing wallet address: 3WRnpTbBpyyMWhAqwgdUyok7EFV9m3KtswTCeqFxGF7A
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): F19ra52AnTNKTjnf7ERfBfQvAeHL5odMyiAyqvZ6r7j
+stdout: Processing wallet address: F19ra52AnTNKTjnf7ERfBfQvAeHL5odMyiAyqvZ6r7j
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): FCxAQ1k3oRERArj46DL3gG6NWdtBpRBZ19teujy9NkMJ
+stdout: Processing wallet address: FCxAQ1k3oRERArj46DL3gG6NWdtBpRBZ19teujy9NkMJ
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): yo1XnctfGLzxJfeRxLVjnkUyTGVKJgtREwCJUNwTBFL
+stdout: Processing wallet address: yo1XnctfGLzxJfeRxLVjnkUyTGVKJgtREwCJUNwTBFL
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 4CHtEHrAL7ay8N5suqEdjwg48WdKvCVq9qK32nmgB6aC
+stdout: Processing wallet address: 4CHtEHrAL7ay8N5suqEdjwg48WdKvCVq9qK32nmgB6aC
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): EiCJJh7RkXj6pXC6pfNi42piaVhUXKxSwR6ABe2hVfVF
+stdout: Processing wallet address: EiCJJh7RkXj6pXC6pfNi42piaVhUXKxSwR6ABe2hVfVF
+{
+  FDOGE: [
+    {
+      timestamp: 1723583940,
+      token_amount: 1158631.907186,
+      amount: 2.401189237,
+      usdBalance: 332.4735114462217,
+      sp: 1
+    }
+  ]
+}
+{ FDOGE: 332.4735114462217 }
+Total Transaction: 1
+Win Rate: 0.0% (0/1)
+Total PnL: 332.47$
+
+Processing wallet (group 8): Ftmn7NW9Vy8bCE5rU6eCYBjBB1S6XQVLcK1NkrdS7Kdf
+stdout: Processing wallet address: Ftmn7NW9Vy8bCE5rU6eCYBjBB1S6XQVLcK1NkrdS7Kdf
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): HWqeYB5RuS3q6Kh7s48pyk5UBX4NrnTXfLb28cjALUqc
+stdout: Processing wallet address: HWqeYB5RuS3q6Kh7s48pyk5UBX4NrnTXfLb28cjALUqc
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 8): 6hq1XGULXKcrsm3FtqY5DAioSqF898JhqUcRtexLhi3X
+stdout: Processing wallet address: 6hq1XGULXKcrsm3FtqY5DAioSqF898JhqUcRtexLhi3X
+{
+  DIP: [
+    {
+      timestamp: 1723812780,
+      token_amount: 1781641.333193,
+      amount: 11.388865653,
+      usdBalance: 1576.9253404504482,
+      sp: 1
+    }
+  ]
+}
+{ DIP: 1576.9253404504482 }
+Total Transaction: 1
+Win Rate: 0.0% (0/1)
+Total PnL: 1576.93$
+
+Processing wallet (group 8): Bzmd8aeymdnV9LRBRpQWfAZxmR5vfFZjhpavcAu2Gc8f
+stdout: Processing wallet address: Bzmd8aeymdnV9LRBRpQWfAZxmR5vfFZjhpavcAu2Gc8f
+{
+  '$LANDLORD': [
+    {
+      timestamp: 1723561680,
+      token_amount: 43092.418387773,
+      amount: 0.298736085,
+      usdBalance: 41.363601687527876,
+      sp: 1
+    }
+  ],
+  SEXYY: [
+    {
+      timestamp: 1723561560,
+      token_amount: 2114619.312011,
+      amount: 0.061148246,
+      usdBalance: 8.466709642509272,
+      sp: 1
+    }
+  ]
+}
+{ '$LANDLORD': 41.363601687527876, SEXYY: 8.466709642509272 }
+Total Transaction: 2
+Win Rate: 0.0% (0/2)
+Total PnL: 49.83$
+
+Processing wallet (group 8): HiZuTdB5rwZaWTCQNDmoJwNXd7XEqtJxduuAraGuLrK3
+stdout: Processing wallet address: HiZuTdB5rwZaWTCQNDmoJwNXd7XEqtJxduuAraGuLrK3
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing completed for group 8.
+
